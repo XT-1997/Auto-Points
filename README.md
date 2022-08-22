@@ -135,8 +135,8 @@ We provide the training logs & pretrained models through Google Drive.
 #### SUNRGB-D
 | name               | supernet | search            | mAP@0.25 | #params | FLOPs |
 |--------------------|----------|-------------------|----------|---------|-------|
-| Auto-Points(base)  | [model](https://drive.google.com/file/d/1JeLtMeAaMXpVklRKhDz758bEtOW3XcP7/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1E3UJ-KZHe6HD-BQnEw1Zh4GoKShVUkg8/view?usp=drivesdk)|[log](https://drive.google.com/file/d/1MdfUFalOu4Q4D3JqaFJZCu2NKU3abC5I/view?usp=drivesdk)|[mutable](https://drive.google.com/file/d/1tnqbMGXOvJFy1epOnaYubeKdDhr7yfwn/view?usp=drivesdk) | 61.9     | 1.0M    | 5.5G  |
-| Auto-Points(large) | [model](https://drive.google.com/file/d/18_4XuWrgvmsyhPBV46liGqH8ulAzyA2S/view?usp=drivesdk)   | [model](https://drive.google.com/file/d/1J4UTAaUqOjTX0l6PJlvwcu5X-gJKxHxG/view?usp=drivesdk)|[log](https://drive.google.com/file/d/1CFwd_qBcEqAn3vcI5HPtLDQm-OhDY8j6/view?usp=drivesdk)|[mutable](https://drive.google.com/file/d/1GPZ7wJ_Azn7vjkaZvfT891z3QGwkhokD/view?usp=drivesdk) | 63.2     | 13.7M   | 25.6G |
+| Auto-Points(base)  | [model](https://drive.google.com/file/d/1JeLtMeAaMXpVklRKhDz758bEtOW3XcP7/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1E3UJ-KZHe6HD-BQnEw1Zh4GoKShVUkg8/view?usp=drivesdk)\|[log](https://drive.google.com/file/d/1MdfUFalOu4Q4D3JqaFJZCu2NKU3abC5I/view?usp=drivesdk)\|[mutable](https://drive.google.com/file/d/1tnqbMGXOvJFy1epOnaYubeKdDhr7yfwn/view?usp=drivesdk) | 61.9     | 1.0M    | 5.5G  |
+| Auto-Points(large) | [model](https://drive.google.com/file/d/18_4XuWrgvmsyhPBV46liGqH8ulAzyA2S/view?usp=drivesdk)   | [model](https://drive.google.com/file/d/1J4UTAaUqOjTX0l6PJlvwcu5X-gJKxHxG/view?usp=drivesdk)\|[log](https://drive.google.com/file/d/1CFwd_qBcEqAn3vcI5HPtLDQm-OhDY8j6/view?usp=drivesdk)\|[mutable](https://drive.google.com/file/d/1GPZ7wJ_Azn7vjkaZvfT891z3QGwkhokD/view?usp=drivesdk) | 63.2     | 13.7M   | 25.6G |
 
 
 
