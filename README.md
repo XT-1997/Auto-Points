@@ -124,7 +124,7 @@ We provide the training logs & pretrained models through Google Drive.
 | name               | supernet | search            | mAcc | #params | FLOPs |
 |--------------------|----------|-------------------|------|---------|-------|
 | Auto-Points(base)  | [model](https://drive.google.com/file/d/1WNmPsZUo_BEtY2_gYY1wzQ1b6uqv2BoL/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1rg5sYrazU_ztJjbFrZcUeJBqK4f-tblc/view?usp=drivesdk)\|[log](https://drive.google.com/file/d/10OVf0BN1kjalizdKUxG3Rrm8AnE1rAp_/view?usp=drivesdk)\|[mutable](https://drive.google.com/file/d/1ZbRpPbId3-EsJEJ6QhND08AzNJMWsyIX/view?usp=drivesdk) | 93.0 | 1.9M    | 2.9G  |
-| Auto-Points(large) | [model](https://drive.google.com/file/d/1jRHlj4FFrMEPkCvHRt0m9ZfUuU7yy_tC/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1t35XSvxZBVABJ_KqcdCalA8c9bblhc43/view?usp=drivesdk)|[log](https://drive.google.com/file/d/1ge2O_c6fN1O4XWUUg6-gEH7mGKBqKss0/view?usp=drivesdk)|[mutable](https://drive.google.com/file/d/17E-hH2ypIxZzgm1BBugoW-IPhZhMlBu2/view?usp=drivesdk) | 93.8 | 3.8M    | 4.6G  |
+| Auto-Points(large) | [model](https://drive.google.com/file/d/1jRHlj4FFrMEPkCvHRt0m9ZfUuU7yy_tC/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1t35XSvxZBVABJ_KqcdCalA8c9bblhc43/view?usp=drivesdk)\|[log](https://drive.google.com/file/d/1ge2O_c6fN1O4XWUUg6-gEH7mGKBqKss0/view?usp=drivesdk)\|[mutable](https://drive.google.com/file/d/17E-hH2ypIxZzgm1BBugoW-IPhZhMlBu2/view?usp=drivesdk) | 93.8 | 3.8M    | 4.6G  |
 
-####S3DIS
+#### S3DIS
 
