@@ -120,7 +120,7 @@ bash tools/slurm_test.sh configs/rvs_votenet/rvs-votenet_16x8_sunrgbd-3d-10class
 ### Models
 We provide the training logs & pretrained models through Google Drive.
 
-#### MobileNet40
+#### ModelNet40
 | name               | supernet | search            | mAcc | #params | FLOPs |
 |--------------------|----------|-------------------|------|---------|-------|
 | Auto-Points(base)  | [model](https://drive.google.com/file/d/1WNmPsZUo_BEtY2_gYY1wzQ1b6uqv2BoL/view?usp=drivesdk)    | [model](https://drive.google.com/file/d/1rg5sYrazU_ztJjbFrZcUeJBqK4f-tblc/view?usp=drivesdk)\|[log](https://drive.google.com/file/d/10OVf0BN1kjalizdKUxG3Rrm8AnE1rAp_/view?usp=drivesdk)\|[mutable](https://drive.google.com/file/d/1ZbRpPbId3-EsJEJ6QhND08AzNJMWsyIX/view?usp=drivesdk) | 93.0 | 1.9M    | 2.9G  |
